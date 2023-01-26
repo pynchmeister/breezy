@@ -10,3 +10,8 @@
 - [ ] Test and refine the analyzer: Test the analyzer on a variety of Sway programs to ensure it is working as expected and to identify any bugs or false positives. Use this feedback to refine and improve the analyzer.
 - [ ] Document and distribute the analyzer: Create documentation and tutorials to help others understand how to use the analyzer, and distribute it via an open source license so that others can contribute to its development.
 
+### Resources
+
+* [slither](https://github.com/crytic/slither)
+
+* [solstat](https://github.com/0xKitsune/solstat)
